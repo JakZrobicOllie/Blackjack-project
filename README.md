@@ -10,7 +10,7 @@ I also didnt realise how ace worked in blackjack until the morning i turned the 
 
 overall at the end i didnt change much as i wanted to remake it but this time in unity, outside of class.
 
-#how to play
+# how to play
 simply run the code, you and the dealer draw cards, if you or the dealer at any point get more then 21 the game ends, with a loss of whoever crossed the score of 21
 
 if someone gets 21 exactly the game ends with the winner being the one who gets exactly 21
